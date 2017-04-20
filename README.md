@@ -4,7 +4,7 @@
 **Gabriele Prato**
 
 **McGill University**
-##### &nbsp;
+# &nbsp;
 Results shown in the presentation can be reproduce with:
 ```python
 python results.py
