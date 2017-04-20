@@ -1,9 +1,9 @@
 # Dyna-Q and count-base exploration
-**COMP-767: Reinforcement Learning
+**COMP-767: Reinforcement Learning**
 
-Gabriele Prato
+**Gabriele Prato**
 
-McGill University**
+**McGill University**
 ##### &nbsp;
 Results shown in the presentation can be reproduce with:
 ```python
